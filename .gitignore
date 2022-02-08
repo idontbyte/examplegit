@@ -1,0 +1,10 @@
+*.exe
+# mac hidden files
+.DS_Store
+
+##other
+node_modules/
+
+.tmp
+.sass-cache
+#builds/**/images/*
