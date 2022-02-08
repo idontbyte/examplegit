@@ -1,3 +1,3 @@
 # Example git repo
 
-For learning about git.
+For learning abTout git.
